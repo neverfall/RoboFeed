@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpProjectServersManager">
+    <servers>
+      <server host="localhost" id="8e2e5691-9a60-42fc-bb9b-e1ce9004940c" name="server" port="8888" use_path_mappings="true" />
+    </servers>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings />
+      <phpunit_by_deployment server_id="dc399138-c830-4e54-a065-580cf1cab2c0" />
+    </phpunit_settings>
+  </component>
+</project>
